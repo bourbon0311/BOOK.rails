@@ -1,0 +1,36 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: リーダブルコード
+  body: より良いコードを書くためのシンプルで実践的なテクニック
+  <% end %>
+
+two:
+  title: トラブル知らずのシステム設計
+  body: システム設計の要点を図解で説明してくれます
+  <% end >
+
+three:
+  title: たのしいRuby
+  body: Rubyの入門におすすめです
+  <% end %>
+
+four:
+  title: 入門Git
+  body: gitについての基本操作から内部構造まで解説してくれます
+  <% end %>
+
+five:
+  title: アルゴリズム図鑑
+  body: アルゴリズムについてカラーイラストでしっかり解説してくれます
+  <% end %>
+
+six:
+  title: 達人プログラマー
+  body: プログラマ入門者は必読！
+  <% end %>
+
+seven:
+title: データベース実践入門
+body: 効率的なSQL文を教えてくれます
+<% end %>
